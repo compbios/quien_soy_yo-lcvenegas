@@ -1,7 +1,7 @@
 
 # Luis Carlos Venegas
 
-Soy médico especialista en geriatría de la [Pontificia Universidad Javeriana] (https://www.javeriana.edu.co/inicio). Mis intereses en el campos de la **investigación** son:
+Soy médico especialista en geriatría de la [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio). Mis intereses en el campos de la **investigación** son:
 
 * Estudios clínicos en paciente anciano hospitalizado 
 * Las trayectorias de deterioro funcional que puede presentar una persona, así como sus factores de riesgo 
